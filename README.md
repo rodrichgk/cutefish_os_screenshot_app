@@ -1,6 +1,6 @@
 # Screenshot
 
-Screenshot tool for CutefishOS.
+Screenshot tool for CutefishOS. I'm planning on adding multiple features to it, the first one is the pultiple screen handling for screenshots
 
 ## Dependencies
 
